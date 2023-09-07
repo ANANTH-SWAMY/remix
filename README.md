@@ -17,3 +17,5 @@ Discord bot to play music in your voice channel
   resume Resumes the song
   stop   Stops playing
 ```
+
+#### PS: Does not work on python 3.11
